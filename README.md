@@ -9,7 +9,7 @@ Projeto de Análise Exploratória de Dados (EDA) focado em segurança viária, a
 
 ## 📥 Acesso à Planilha Completa
 Devido ao volume de dados da base bruta da PRF, o arquivo completo (`.xlsx`) está hospedado na nuvem.
-> 🔗 **[Clique aqui para visualizar/baixar a planilha no Google Drive](https://tinyurl.com/2ek623zy)**
+> 🔗 **[Clique aqui para visualizar/baixar a planilha no Google Drive](https://drive.google.com/drive/folders/1YsJeJUGqin51273_DXHtqut-U3Nt3OpQ?usp=sharing)**
 
 ## 💡 Principais Insights Identificados
 * **Variável-Alvo:** Criação de indicador condicional (`acidente_fatal`) para segmentação dos casos de maior severidade.
